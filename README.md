@@ -14,8 +14,11 @@ A modern Flutter mobile application for making phone calls with a beautiful grad
 ✅ **Responsive Design** - Works on different screen sizes  
 
 ## Screenshots
-![alt text](phone_dialer_app/image.png)
-![alt text](phone_dialer_app/image-1.png)
+
+<p float="left">
+  <img src="phone_dialer_app/image.png" width="300" />
+  <img src="phone_dialer_app/image-1.png" width="300" /> 
+</p>
 
 
 ## Prerequisites
